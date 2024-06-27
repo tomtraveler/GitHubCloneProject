@@ -1,3 +1,1 @@
 # GitHubCloneProject
-
-greetings.txt
